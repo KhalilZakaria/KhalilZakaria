@@ -6,7 +6,7 @@
 - 🌱 I’m currently focusing on learning new technologies . Addicted to learn and grow every single day. 
 
 - 📫 How to reach me:
-    * :office: [LinkedIn] (https://github.com/KhalilZakaria)
+    * :office: [LinkedIn] (https://www.linkedin.com/in/zakaria-khalil-sig/)
     * :star: [Portfolio] (https://zakariakhalil.site/)
    
 
