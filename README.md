@@ -4,9 +4,7 @@
 
 - :yellow_heart: I’m currently studying GIS engineering .
 - 🌱 I’m currently focusing on learning new technologies . Addicted to learn and grow every single day. 
--:tongue: * Speak fluent english ( TOEFL 90/120 ).
-          * Speak fluent frensh.
-          * Arabic is my native language.
+- :tongue: * Speak fluent English ( TOEFL 90/120 ), fluent Frensh and Arabic is my native language.
 
 - 📫 How to reach me:
     * :office: [LinkedIn] (https://www.linkedin.com/in/zakaria-khalil-sig/)
