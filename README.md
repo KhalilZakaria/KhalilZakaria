@@ -2,7 +2,7 @@
 
 
 
-- :yellow_heart: I’m currently studying GIS engineering and looking for a final year internship .
+- :yellow_heart: I’m currently studying GIS engineering .
 - 🌱 I’m currently focusing on learning new technologies . Addicted to learn and grow every single day. 
 
 - 📫 How to reach me:
