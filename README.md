@@ -2,7 +2,7 @@
 
 
 
-- :yellow_heart: I’m currently studying GIS engineering .
+- :yellow_heart: I’m currently working as a Fullstack enginner at @HPS .
 - 🌱 I’m currently focusing on learning new technologies . Addicted to learn and grow every single day. 
 - :tongue: I speak fluent English ( TOEFL 90/120 ), fluent Frensh and Arabic is my native language.
 
