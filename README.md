@@ -2,7 +2,7 @@
 
 
 
-- :yellow_heart: I’m currently working as a Software enginner at @HPS Casablanca, Morocco.
+- :yellow_heart: I’m currently working as a Software engineer at @HPS Casablanca, Morocco.
 - 🌱 I’m  focusing on learning new technologies . Addicted to learn and grow every single day. 
 - :tongue: I speak fluent English ( TOEFL 90/120 ), fluent French and Arabic is my native language.
 
